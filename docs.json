@@ -121,7 +121,7 @@
   "logo": {
     "light": "/logo/synq-light.png",
     "dark": "/logo/synq-dark.png",
-    "height": 52,
+    "height": 68,
     "href": "/"
   },
   "navbar": {
