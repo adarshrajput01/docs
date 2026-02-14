@@ -5,6 +5,7 @@
   "description": "Complete command documentation for SYNQ Bot",
   "modeToggle": {
     "isHidden": true
+  }
   "colors": {
     "primary": "#5865F2",
     "light": "#7289DA",
