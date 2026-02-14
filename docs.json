@@ -3,15 +3,20 @@
   "theme": "mint",
   "name": "Synq Documentation",
   "description": "Complete command documentation for SYNQ Bot",
+
   "appearance": {
-    "default": "dark"
-  },
+  "default": "dark",
+  "toggle": false
+},
+
   "colors": {
     "primary": "#5865F2",
     "light": "#7289DA",
     "dark": "#4752C4"
   },
+
   "favicon": "/favicon.svg",
+
   "navigation": {
     "tabs": [
       {
@@ -98,11 +103,15 @@
         "groups": [
           {
             "group": "Commands",
-            "pages": ["Utility & Info/utility", "Utility & Info/information"]
+            "pages": [
+              "Utility & Info/utility",
+              "Utility & Info/information"
+            ]
           }
         ]
       }
     ],
+
     "global": {
       "anchors": [
         {
@@ -118,12 +127,14 @@
       ]
     }
   },
+
   "logo": {
     "light": "/logo/synq-light.png",
     "dark": "/logo/synq1.png",
     "height": 68,
     "href": "/"
   },
+
   "navbar": {
     "links": [
       {
@@ -137,6 +148,7 @@
       "href": "https://discord.com/oauth2/authorize?client_id=1452307918899904564"
     }
   },
+
   "footer": {
     "socials": {
       "discord": "https://discord.gg/synqlabs",
