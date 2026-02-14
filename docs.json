@@ -120,7 +120,7 @@
   },
   "logo": {
     "light": "/logo/synq-light.png",
-    "dark": "/logo/synq-dark.png",
+    "dark": "/logo/synq.png",
     "height": 68,
     "href": "/"
   },
