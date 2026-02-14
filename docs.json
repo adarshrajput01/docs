@@ -1,4 +1,4 @@
- {
+{
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "SYNQ Bot",
@@ -98,8 +98,8 @@
             "pages": ["Utility & Info/utility", "Utility & Info/information"]
           }
         ]
-      },
-    ]
+      }
+    ],
     "global": {
       "anchors": [
         {
