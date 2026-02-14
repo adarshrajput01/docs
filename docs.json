@@ -117,7 +117,9 @@
   },
   "logo": {
     "light": "/logo/synq-light.svg",
-    "dark": "/logo/synq-dark.svg"
+    "dark": "/logo/synq-dark.svg",
+    "height":38,
+    "href": "/"
   },
   "navbar": {
     "links": [
