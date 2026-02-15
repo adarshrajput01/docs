@@ -15,7 +15,8 @@
     "dark": "#4752C4"
   },
 
-  "favicon": "/synq-light.png",
+  "favicon": "logo/synq-light.png",
+  
   "navigation": {
     "tabs": [
       {
