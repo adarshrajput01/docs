@@ -15,7 +15,8 @@
     "dark": "#4752C4"
   },
 
-  "favicon": "/synq-light.png",
+  "favicon": "logo/synq-light.png",
+  
   "navigation": {
     "tabs": [
       {
@@ -151,7 +152,7 @@
   "footer": {
     "socials": {
       "discord": "https://discord.gg/synqlabs",
-      "github": "https://github.com"
+      "github": "https://github.com/secwithai/docs"
     }
   }
 }
