@@ -18,96 +18,66 @@
   "favicon": "logo/synq-light.png",
   
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Overview",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": ["index", "premium"]
-          }
+        "group": "Overview",
+        "pages": [
+          "index",
+          "premium"
         ]
       },
       {
-        "tab": "Server Configuration",
-        "groups": [
-          {
-            "group": "Setup",
-            "pages": [
-              "Configuration/invite-welcome",
-              "Configuration/autorole",
-              "Configuration/greet",
-              "Configuration/jointocreate",
-              "Configuration/customise"
-            ]
-          }
+        "group": "Setup",
+        "pages": [
+          "Configuration/invite-welcome",
+          "Configuration/autorole",
+          "Configuration/greet",
+          "Configuration/jointocreate",
+          "Configuration/customise"
         ]
       },
       {
-        "tab": "Tracking",
-        "groups": [
-          {
-            "group": "Stats & leaderboards",
-            "pages": [
-              "Tracking/messages-voice",
-              "Tracking/invites",
-              "Tracking/leaderboard",
-              "Tracking/add-remove-reset"
-            ]
-          }
+        "group": "Stats & leaderboards",
+        "pages": [
+          "Tracking/messages-voice",
+          "Tracking/invites",
+          "Tracking/leaderboard",
+          "Tracking/add-remove-reset"
         ]
       },
       {
-        "tab": "Moderation",
-        "groups": [
-          {
-            "group": "Moderation commands",
-            "pages": ["Moderation/moderation"]
-          }
+        "group": "Moderation commands",
+        "pages": [
+          "Moderation/moderation"
         ]
       },
       {
-        "tab": "Engagement",
-        "groups": [
-          {
-            "group": "Giveaways & tools",
-            "pages": [
-              "Engagement/giveaway",
-              "Engagement/boostrole",
-              "Engagement/embed",
-              "Engagement/reminder",
-              "Engagement/timer"
-            ]
-          }
+        "group": "Giveaways & tools",
+        "pages": [
+          "Engagement/giveaway",
+          "Engagement/boostrole",
+          "Engagement/embed",
+          "Engagement/reminder",
+          "Engagement/timer"
         ]
       },
       {
-        "tab": "Automation",
-        "groups": [
-          {
-            "group": "Automation",
-            "pages": [
-              "Automation/autoresponder",
-              "Automation/customrole",
-              "Automation/guildtag",
-              "Automation/vanityrole",
-              "Automation/sticky",
-              "Automation/ticket",
-              "Automation/welcome"
-            ]
-          }
+        "group": "Automation",
+        "pages": [
+          "Automation/autoresponder",
+          "Automation/customrole",
+          "Automation/guildtag",
+          "Automation/vanityrole",
+          "Automation/sticky",
+          "Automation/ticket",
+          "Automation/welcome"
         ]
       },
       {
-        "tab": "Utility & Info",
-        "groups": [
-          {
-            "group": "Commands",
-            "pages": [
-              "Utility & Info/utility",
-              "Utility & Info/information"
-            ]
-          }
+        "group": "Commands",
+        "pages": [
+          "Utility & Info/utility",
+          "Utility & Info/information"
         ]
       }
     ],
