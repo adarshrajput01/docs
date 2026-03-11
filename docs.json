@@ -22,8 +22,9 @@
       {
         "group": "Overview",
         "pages": [
-          "index",
-          "premium"
+          "Overview/index",
+          "Overview/premium",
+          "Overview/customise"
         ]
       },
       {
@@ -32,8 +33,7 @@
           "Configuration/invite-welcome",
           "Configuration/autorole",
           "Configuration/greet",
-          "Configuration/jointocreate",
-          "Configuration/customise"
+          "Configuration/jointocreate"
         ]
       },
       {
