@@ -5,9 +5,9 @@
   "description": "Complete command documentation for SYNQ Bot",
 
   "appearance": {
-  "default": "dark",
-  "toggle": false
-},
+    "default": "dark",
+    "toggle": false
+  },
 
   "colors": {
     "primary": "#5865F2",
@@ -16,7 +16,7 @@
   },
 
   "favicon": "logo/synq-light.png",
-  
+
   "navigation": {
     "groups": [
       {
@@ -123,5 +123,6 @@
     "socials": {
       "discord": "https://discord.gg/synqlabs",
       "github": "https://github.com/adarshrajput01/docs.git"
+    }
   }
 }
